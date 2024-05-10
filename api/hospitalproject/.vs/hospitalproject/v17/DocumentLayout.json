@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\models\\hospitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\models\\hospitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|c:\\users\\sinem\\desktop\\hospitalproject\\api\\hospitalproject\\hospitalproject\\hospitalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9D886EB-3687-41F2-9B81-85875926514D}|hospitalproject\\hospitalproject.csproj|solutionrelative:hospitalproject\\hospitalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Controllers\\HospitalController.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Controllers\\HospitalController.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Controllers\\HospitalController.cs",
+              "RelativeToolTip": "hospitalproject\\Controllers\\HospitalController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:27:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospitals.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Models\\Hospitals.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Models\\Hospitals.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Models\\Hospitals.cs",
+              "RelativeToolTip": "hospitalproject\\Models\\Hospitals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:23:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "hospitalproject\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:39:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\appsettings.json",
+              "RelativeDocumentMoniker": "hospitalproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\appsettings.json",
+              "RelativeToolTip": "hospitalproject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T18:32:12.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Models\\Doctors.cs",
+              "RelativeToolTip": "hospitalproject\\Models\\Doctors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:14:04.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Program.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Program.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Program.cs",
+              "RelativeToolTip": "hospitalproject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:31:07.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hospitalproject.csproj",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\hospitalproject.csproj",
+              "RelativeDocumentMoniker": "hospitalproject\\hospitalproject.csproj",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\hospitalproject.csproj",
+              "RelativeToolTip": "hospitalproject\\hospitalproject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T18:01:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Startup.cs",
+              "RelativeDocumentMoniker": "hospitalproject\\Startup.cs",
+              "ToolTip": "C:\\Users\\sinem\\Desktop\\HospitalProject\\api\\hospitalproject\\hospitalproject\\Startup.cs",
+              "RelativeToolTip": "hospitalproject\\Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:01:48.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
